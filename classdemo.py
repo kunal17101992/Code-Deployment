@@ -1,5 +1,4 @@
 import cx_Oracle
-
 import csv
 import datetime
 
