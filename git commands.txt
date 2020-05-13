@@ -8,7 +8,7 @@ Steps to check in code in git:
 6. Above command may give error if runs first time that "fatal: unable to auto-detect email address". 
 In that case run following command git config --global user.email "you@example.com". Email address is which
 you used in your github.
-7. Run command git_supermarket>git remote add origin https://github.com/kunal17101992/Code-Deployment.git 
+7. Run command git remote add origin https://github.com/kunal17101992/Code-Deployment.git 
 This link should be with you at the time of repository creation.
 8. Run command git pull --rebase origin master if you have other commited folders/file in repository.
 if do not have any existing file/folder in repository then you may skip this command.
