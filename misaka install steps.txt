@@ -1,0 +1,9 @@
+Install Anaconda
+
+Run the following commands:
+
+conda install libpython m2w64-toolchain -c msys2
+
+python -m pip install --upgrade pip
+
+pip install misaka
