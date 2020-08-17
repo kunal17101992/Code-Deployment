@@ -9,6 +9,7 @@ Steps to check in code in git:
 In that case run following command git config --global user.email "you@example.com". Email address is which
 you used in your github.
 7. Run command git remote add origin https://github.com/kunal17101992/Code-Deployment.git 
+If above command gives fatal error then replace 'origin' with 'github' and try.
 This link should be with you at the time of repository creation.
 8. Run command git pull --rebase origin master if you have other commited folders/file in repository.
 if do not have any existing file/folder in repository then you may skip this command.
